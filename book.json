@@ -6,7 +6,7 @@
     "gitbook": "3.2.3",
     "links": {
         "sidebar": {
-            "总目录": "https://zlogs.net/learn-LaTex"
+            "总目录": "https://zlogs.net/"
         }
     },
     "plugins": [
