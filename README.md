@@ -2,11 +2,11 @@
 
 本书地址为https://zlogs.net/learn-LaTeX
 
-本书为个人学习markdown系列笔记，其他更多系列笔记可以关注https://zlogs.net/learn-books
+本书为个人学习markdown系列笔记，其他更多系列笔记可以关注https://zlogs.net/about/note.html
 
 ##  公式速查
 
-如果只是简要了解公式，或者知道如何使用，速查公式语法可以查看[公式语法速查](books/.md)
+如果只是简要了解公式，或者知道如何使用，速查公式语法可以查看[公式语法速查](page/.md)
 
 本书目前只是介绍公式，后期会更新其他排版，如果你也喜欢这种整理方式，欢迎[Fork](https://zlogs.net/learn-LaTeX)
 
@@ -22,36 +22,36 @@
 
 ## 本书版权
 
-关于版权和转载请阅读[learn-books简介](https://zlogs.net/learn-books/)
+关于版权和转载请阅读[learn-page简介](https://zlogs.net/about/note.html/)
 
 
 ## 本书脉络
 ```markdown
 # Summary
 * [本书简介](README.md)
-* [公式语法速查](books/04-0.md)
-* [LaTeX简介](books/01.md)
-  * [是什么](books/01-1.md)
-  * [为什么](books/01-2.md)
-  * [怎么做](books/01-3.md)
-* [公式](books/04.md)
-  * [插入方式](books/04-1.md)
-    * [行内公式](books/04-1-1.md)
-    * [行间公式](books/04-1-2.md)
-  * [基本符号](books/04-2.md)
-    * [一般符号（单字符）](books/04-2-1.md)
-    * [函数表示符](books/04-2-2.md)
-    * [关系符](books/04-2-3.md)
-    * [算符](books/04-2-4.md)
-    * [定界符](books/04-2-5.md)
-  * [场景符号](books/04-3.md)
-    * [数组](books/04-3-1.md)
-    * [矩阵](books/04-3-2.md)
-    * [向量（重音）](books/04-3-3.md)
-    * [证明](books/04-3-4.md)
-  * [样式](books/04-4.md)
-    * [公式间距](books/04-4-1.md)
-    * [多行公式](books/04-4-2.md)
+* [公式语法速查](page/04-0.md)
+* [LaTeX简介](page/01.md)
+  * [是什么](page/01-1.md)
+  * [为什么](page/01-2.md)
+  * [怎么做](page/01-3.md)
+* [公式](page/04.md)
+  * [插入方式](page/04-1.md)
+    * [行内公式](page/04-1-1.md)
+    * [行间公式](page/04-1-2.md)
+  * [基本符号](page/04-2.md)
+    * [一般符号（单字符）](page/04-2-1.md)
+    * [函数表示符](page/04-2-2.md)
+    * [关系符](page/04-2-3.md)
+    * [算符](page/04-2-4.md)
+    * [定界符](page/04-2-5.md)
+  * [场景符号](page/04-3.md)
+    * [数组](page/04-3-1.md)
+    * [矩阵](page/04-3-2.md)
+    * [向量（重音）](page/04-3-3.md)
+    * [证明](page/04-3-4.md)
+  * [样式](page/04-4.md)
+    * [公式间距](page/04-4-1.md)
+    * [多行公式](page/04-4-2.md)
 ```
 
 ## 更新日志
